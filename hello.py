@@ -9,3 +9,7 @@ def goodbye():
 def other():
     print("Other")
     return
+
+def delete():
+    print("Delete")
+    return
