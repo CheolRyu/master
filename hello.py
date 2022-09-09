@@ -5,3 +5,7 @@ def hello():
 def goodbye():
     print("Goodbye, World!")
     return
+
+def other():
+    print("Other")
+    return
