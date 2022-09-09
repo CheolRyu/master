@@ -13,3 +13,12 @@ def other():
 def delete():
     print("Delete")
     return
+
+def main():
+    hello()
+    goodbye()
+    other()
+    delete()
+    return
+
+main()
